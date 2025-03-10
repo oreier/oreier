@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on Infinite Islands (New Unity 3D Questing Video Game! - coming soon to Git)
+- 🌱 I’m currently learning cdvanced computer architecture, and cache usage 
+- 💬 Ask me about, Dr. Pebbles, the animatronic rock, who can speak and do chemistry! 
+- 📫 Reach out at lim@mines.edu
+- 😄 Pronouns: she/hers
+
 <!--
 **oreier/oreier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
